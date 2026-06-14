@@ -35,11 +35,11 @@ Building projects, exploring new tech, and blending code with creativity. ðŸš€ðŸ
 
 ### Tools & Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,framer,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel)](https://skillicons.dev)
 
 ### Creative Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ae,unrealengin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,unrealengine)](https://skillicons.dev)
 
 ---
 
