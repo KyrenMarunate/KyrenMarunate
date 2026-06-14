@@ -78,9 +78,9 @@ Building projects, exploring new tech, and blending code with creativity. 🚀�
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/kamlesh20mishra)
+* 💼 LinkedIn: [KamleshLink](https://www.linkedin.com/in/kamlesh20mishra)
 * 📧 Email: YOUR_EMAIL
-* 🌍 Portfolio: YOUR_WEBSITE
+* 🌍 Portfolio: [LordKyren](https://www.lordkyren.me/)
 
 ---
 
