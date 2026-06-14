@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Kamlesh Kaushik Mishra 👋
+# Hi, I'm Kamlesh aka Kyren Marunate 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=600\&lines=AI+Enthusiast;Creative+Thinker;Lifelong+Gamer;Digital+Art+Lover;Building+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 AI enthusiast, creative thinker, and lifelong gamer.
-Passionate about artificial intelligence, digital art, and building projects that blend code with creativity. 🚀🤖🎮🎨
+Building projects, exploring new tech, and blending code with creativity. 🚀🤖🎮🎨
+
 
 </div>
 
@@ -77,7 +78,7 @@ Passionate about artificial intelligence, digital art, and building projects tha
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: YOUR_LINKEDIN
+* 💼 LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/kamlesh20mishra)
 * 📧 Email: YOUR_EMAIL
 * 🌍 Portfolio: YOUR_WEBSITE
 
