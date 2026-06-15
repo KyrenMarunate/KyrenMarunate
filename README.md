@@ -2,7 +2,7 @@
 
 # Hi, I'm Kamlesh aka Kyren Marunate 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=600\&lines=AI+Enthusiast;Creative+Thinker;Lifelong+Gamer;Digital+Art+Lover;Building+Ideas+Into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=600\&lines=AI+Madness;Creative+Mess;Overthinker;Lifelong+Gamer;Digital+Art+Lover;Building+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 AI enthusiast, creative thinker, and lifelong gamer.
 Building projects, exploring new tech, and blending code with creativity. 🚀🤖🎮🎨
