@@ -45,10 +45,57 @@ Building projects, exploring new tech, and blending code with creativity. 🚀�
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KyrenMarunate&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyrenMarunate&layout=compact&theme=tokyonight"/>
-</p>
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/profile-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git commit -m "📊 Update GitHub stats" || exit 0
+
+          git push
 
 ---
 
