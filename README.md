@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Kamlesh Kaushik Mishra 👋
+# Hi, I'm Kamlesh aka Kyren! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=600\&lines=AI+Madness;Creative+Mess;Lifelong+Gamer;Digital+Art+Lover;Building+Ideas+Into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=600\&lines=AI+Assistance;Creative+Mess;Lifelong+Gamer;Graphic+Designer;Building+Ideas+Into+Reality)](https://git.io/typing-svg)
 
 AI enthusiast, creative thinker, and lifelong gamer.
 Passionate about artificial intelligence, digital art, and building projects that blend code with creativity. 🚀🤖🎮🎨
@@ -14,7 +14,7 @@ Passionate about artificial intelligence, digital art, and building projects tha
 ## ✨ About Me
 
 * 🤖 Exploring Artificial Intelligence
-* 🚀 Building side projects and experimenting
+* 🚀 Building projects and experimenting
 * 🎮 Gamer at heart
 * 🎨 Digital art and creative design enthusiast
 * 📚 Always learning new technologies
